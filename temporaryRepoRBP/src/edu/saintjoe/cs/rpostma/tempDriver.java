@@ -12,7 +12,7 @@ public class tempDriver {
 			array[i] = i*i;
 			System.out.println("Array has " + array[i] + " in position " + i);
 		}
-		System.out.println("Notice a pattern?");
+		System.out.println("Notice a pattern?");//pattern: array divided by 2 = position
 	
 	}
 	
